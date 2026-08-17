@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Django+%7C+React+%7C+Java+Developer;AI%2FML+Project+Builder;L+J+Institute+of+Engineering+And+Technology;Seeking+Software+Development+Internship" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Django+%7C+React+%7C+Java+Developer;AI%2FML+Project+Builder;Computer+Science+Engineering+Student;Seeking+Software+Development+Internship" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/L_J_Institute-Computer_Science_Engineering-7C3AED?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/LJ%20Institute%20of%20Engineering%20%26%20Technology-Computer%20Science-7C3AED?style=for-the-badge&labelColor=111827"/>
   <img src="https://img.shields.io/badge/Full--Stack-Development-6366F1?style=for-the-badge&labelColor=111827"/>
   <img src="https://img.shields.io/badge/AI%2FML-Engineering-8B5CF6?style=for-the-badge&labelColor=111827"/>
 </p>
@@ -18,6 +18,7 @@
   <a href="https://github.com/hetdhameliya09">
     <img src="https://img.shields.io/badge/GitHub-hetdhameliya09-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
   </a>
+
   <a href="mailto:dhameliyaa.het@gmail.com">
     <img src="https://img.shields.io/badge/Email-dhameliyaa.het%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
   </a>
@@ -25,90 +26,178 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Computer Science Engineering student with a strong foundation in full-stack development, database management, and data structures. Skilled in **Java, Python, Django, JavaScript, DBMS, and DSA**. Experienced in building full-stack web applications and machine learning projects. 
+Computer Science Engineering student with a strong foundation in **full-stack development, database management, data structures and machine learning**.
 
-🎯 **Seeking a Software Development Internship** to apply technical skills, gain industry experience, and contribute to innovative real-world projects.
+Skilled in:
 
-- 🎓 **Education**: B.E. in Computer Science Engineering (5th Semester), Lok Jagruti University (SPI: 6.73)
-- 📍 **Location**: Surat, Gujarat, India
-- 📞 **Contact**: (+91) 9979842583 | dhameliyaa.het@gmail.com
+`Java` `Python` `Django` `JavaScript` `React.js` `DBMS` `DSA`
+
+Experienced in building **full-stack web applications, database-driven systems and machine-learning projects**.
+
+🎯 **Currently seeking a Software Development Internship** to apply my technical skills, gain industry experience, and contribute to innovative real-world projects.
+
+### 🎓 Education
+
+**B.E. Computer Science Engineering**
+
+Lok Jagruti University
+
+**5th Semester | SPI: 6.73**
+
+### 📍 Location
+
+Surat, Gujarat, India
+
+### 📞 Contact
+
+**(+91) 9979842583**
+
+### 📧 Email
+
+**dhameliyaa.het@gmail.com**
 
 ---
 
-## 📜 Certifications
+# 🛠️ Technical Skills
 
-- 🏆 **Microsoft AI & ML Engineering** (July 2026 | Microsoft / Coursera)
-  - AI/ML fundamentals, machine learning algorithms, Azure AI/ML, intelligent agents, and capstone project.
-- 📊 **Exploratory Data Analysis for Machine Learning** (June 2026 | IBM)
-  - Data cleaning, preprocessing, visualization, statistical analysis, and dataset pattern discovery.
-- 🤖 **Google AI Professional Certificate** (June 2026 | Google / Coursera)
-  - Prompt engineering, AI fundamentals, research, content creation, data analysis, and AI-powered app development.
+## 💻 Languages
 
----
-
-## 🛠️ Technical Skills
-
-### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-### Web Development & Backend
+- Java
+- Python
+- JavaScript
+
+---
+
+## 🌐 Web Development & Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,html,css" />
 </p>
 
-### DBMS & Databases
+- Django
+- React.js
+- Node.js
+- HTML
+- CSS
+- Full-Stack Web Development
+
+---
+
+## 🗄️ DBMS & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 </p>
 
-### AI / ML & Tools
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Database Management Systems
+- Relational Database Concepts
+- Database Triggers
+- Transactional Operations
+
+---
+
+## 🤖 AI / ML
+
+- Machine Learning
+- AI/ML Engineering
+- Generative AI
+- Random Forest
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Statistical Analysis
+- Prompt Engineering
+
+---
+
+## ⚙️ Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📜 Certifications
+
+## 🏆 Microsoft AI & ML Engineering
+
+**Microsoft / Coursera — July 2026**
+
+Completed the Microsoft AI & ML Engineering Professional Certificate.
+
+### Covered
+
+- AI/ML Fundamentals
+- Machine Learning Algorithms
+- Azure AI/ML
+- Intelligent Agents
+- Advanced Machine Learning
+- Capstone Project
+
+---
+
+## 📊 Exploratory Data Analysis for Machine Learning
+
+**IBM — June 2026**
+
+### Skills
+
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Statistical Analysis
+- Pattern Discovery
+- Dataset Analysis
+
+---
+
+## 🤖 Google AI Professional Certificate
+
+**Google / Coursera — June 2026**
+
+### Covered
+
+- AI Fundamentals
+- Prompt Engineering
+- Research
+- Content Creation
+- Data Analysis
+- Communication
+- AI-powered Application Development
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 VendorBridge | Python, Django, JavaScript
-- Developed a modern full-stack Procurement and Supplier Relationship Management (SRM) ERP using Django and Bootstrap.
-- Multi-stage approval workflow, real-time dashboards and analytics using Chart.js, and automated PDF invoice generation.
-- Designed responsive user interfaces and optimized business processes for procurement and supplier management.
-- *Developed for Odoo × KSV Hackathon '26 (Virtual Round)*
+## 🏢 VendorBridge
 
-## 🌾 AgroSense | Full-Stack Web & ML Application, Python
-- Built a production-ready, full-stack decision support platform for farmers and agricultural officers.
-- Leveraged Random Forest machine learning models for crop recommendation and yield prediction.
-- Developed automated web scrapers to fetch live mandi prices and government scheme information.
-- Real-time analytics and interactive dashboards to support data-driven agricultural decisions.
+### Procurement & Supplier Relationship Management ERP
 
-## ✈️ Airline Management System | Core Java, MySQL, DBMS
-- Developed an Airline Management System using Java and MySQL, featuring ticket booking, hotel reservation, and ground transportation modules.
-- Designed role-based access control (RBAC).
-- Utilized database triggers and transactional operations for real-time seat inventory management and data consistency.
+A modern full-stack **Procurement and Supplier Relationship Management (SRM) ERP** built using Django and Bootstrap.
 
----
+Developed for the **Odoo × KSV Hackathon '26 — Virtual Round**.
 
-## 📊 GitHub Analytics
+### 🛠️ Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetdhameliya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=a78bfa&text_color=94a3b8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdhameliya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=94a3b8" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-- 📧 **Email**: [dhameliyaa.het@gmail.com](mailto:dhameliyaa.het@gmail.com)
-- 📞 **Phone**: (+91) 9979842583
-- 🌐 **GitHub**: [github.com/hetdhameliya09](https://github.com/hetdhameliya09)
-- 📍 **Location**: Surat, Gujarat, India
-
-<p align="center">
-  <em>Designed and engineered by Het N Dhameliya &bull; L J Institute of Engineering And Technology</em>
-</p>
+```text
+Python
+Django
+JavaScript
+Bootstrap
+Chart.js
