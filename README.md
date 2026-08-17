@@ -104,8 +104,3 @@ Computer Science Engineering student with a strong foundation in full-stack deve
 <p align="center">
   <em>Designed and engineered by Het N Dhameliya &bull; L J Institute of Engineering And Technology</em>
 </p>
- 100% Resume-Aligned
-
-Download README.md
-
-Copy Markdown
