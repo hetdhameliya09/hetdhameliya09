@@ -1,155 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HET%20N%20DHAMELIYA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Het%20N%20Dhameliya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Python+%7C+Django+%7C+JavaScript;AI%2FML+%26+Generative+AI+Enthusiast;Building+Real-World+Software+Solutions" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Django+%7C+React+%7C+Java+Developer;AI%2FML+Project+Builder;L+J+Institute+of+Engineering+And+Technology;Seeking+Software+Development+Internship" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CSE-5th%20Semester-7C3AED?style=for-the-badge&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-6366F1?style=for-the-badge&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-8B5CF6?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/L_J_Institute-Computer_Science_Engineering-7C3AED?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Development-6366F1?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Engineering-8B5CF6?style=for-the-badge&labelColor=111827"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/hetdhameliya09">
     <img src="https://img.shields.io/badge/GitHub-hetdhameliya09-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
   </a>
-
   <a href="mailto:dhameliyaa.het@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+    <img src="https://img.shields.io/badge/Email-dhameliyaa.het%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=hetdhameliya09&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Science Engineering student** pursuing a **B.E. in Computer Science Engineering at Lok Jagruti University**, currently in my **5th semester**.
+Computer Science Engineering student with a strong foundation in full-stack development, database management, and data structures. Skilled in **Java, Python, Django, JavaScript, DBMS, and DSA**. Experienced in building full-stack web applications and machine learning projects. 
 
-I have a strong foundation in **Full-Stack Development, Database Management, Data Structures & Algorithms, Machine Learning, AI/ML and Generative AI**.
+🎯 **Seeking a Software Development Internship** to apply technical skills, gain industry experience, and contribute to innovative real-world projects.
 
-I primarily work with:
-
-- 🐍 Python
-- ☕ Java
-- ⚡ JavaScript
-- 🌐 React.js
-- 🎯 Django
-- 🗄️ MySQL
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🤖 Machine Learning
-- 🧠 Generative AI
-
-I enjoy building practical software solutions that solve real-world problems.
-
-### 🎯 Currently Looking For
-
-- Software Development Internship
-- Full-Stack Development Opportunities
-- Python / Django Development
-- AI / ML Projects
-- Software Engineering Projects
-- Open Source Collaboration
-- Hackathons & Team Projects
+- 🎓 **Education**: B.E. in Computer Science Engineering (5th Semester), Lok Jagruti University (SPI: 6.73)
+- 📍 **Location**: Surat, Gujarat, India
+- 📞 **Contact**: (+91) 9979842583 | dhameliyaa.het@gmail.com
 
 ---
 
-# 🛠️ Technical Skills
+## 📜 Certifications
 
-## 💻 Programming Languages
+- 🏆 **Microsoft AI & ML Engineering** (July 2026 | Microsoft / Coursera)
+  - AI/ML fundamentals, machine learning algorithms, Azure AI/ML, intelligent agents, and capstone project.
+- 📊 **Exploratory Data Analysis for Machine Learning** (June 2026 | IBM)
+  - Data cleaning, preprocessing, visualization, statistical analysis, and dataset pattern discovery.
+- 🤖 **Google AI Professional Certificate** (June 2026 | Google / Coursera)
+  - Prompt engineering, AI fundamentals, research, content creation, data analysis, and AI-powered app development.
 
+---
+
+## 🛠️ Technical Skills
+
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-
----
-
-## 🌐 Web Development
-
+### Web Development & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django" />
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,html,css" />
 </p>
 
-- React.js
-- Node.js
-- Django
-- Full-Stack Web Development
-- REST API Development
-
----
-
-## 🗄️ Databases
-
+### DBMS & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 </p>
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-- Database Management Systems
-- Relational Database Concepts
-- Transactions
-- Database Triggers
-
----
-
-## 🧠 Computer Science
-
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
-- Relational Databases
-- Transaction Management
-- Database Triggers
-- Role-Based Access Control
-- Problem Solving
-
----
-
-# 🤖 AI / ML
-
-I am actively exploring **Artificial Intelligence, Machine Learning and Generative AI**.
-
-### Skills
-
-- Machine Learning
-- AI/ML Engineering
-- Generative AI
-- Random Forest
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Preprocessing
-- Data Visualization
-- Statistical Analysis
-- Prompt Engineering
+### AI / ML & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,git,github,vscode" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 AgroSense — Smart Agriculture Assistant Platform
+## 🏢 VendorBridge | Python, Django, JavaScript
+- Developed a modern full-stack Procurement and Supplier Relationship Management (SRM) ERP using Django and Bootstrap.
+- Multi-stage approval workflow, real-time dashboards and analytics using Chart.js, and automated PDF invoice generation.
+- Designed responsive user interfaces and optimized business processes for procurement and supplier management.
+- *Developed for Odoo × KSV Hackathon '26 (Virtual Round)*
 
-A **full-stack decision-support platform for farmers and agricultural officers** that combines machine learning with real-world agricultural data.
+## 🌾 AgroSense | Full-Stack Web & ML Application, Python
+- Built a production-ready, full-stack decision support platform for farmers and agricultural officers.
+- Leveraged Random Forest machine learning models for crop recommendation and yield prediction.
+- Developed automated web scrapers to fetch live mandi prices and government scheme information.
+- Real-time analytics and interactive dashboards to support data-driven agricultural decisions.
 
-### Technologies
+## ✈️ Airline Management System | Core Java, MySQL, DBMS
+- Developed an Airline Management System using Java and MySQL, featuring ticket booking, hotel reservation, and ground transportation modules.
+- Designed role-based access control (RBAC).
+- Utilized database triggers and transactional operations for real-time seat inventory management and data consistency.
 
-```text
-Python
-Machine Learning
-Random Forest
-Full-Stack Web Development
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetdhameliya09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=a78bfa&text_color=94a3b8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetdhameliya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=94a3b8" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 **Email**: [dhameliyaa.het@gmail.com](mailto:dhameliyaa.het@gmail.com)
+- 📞 **Phone**: (+91) 9979842583
+- 🌐 **GitHub**: [github.com/hetdhameliya09](https://github.com/hetdhameliya09)
+- 📍 **Location**: Surat, Gujarat, India
+
+<p align="center">
+  <em>Designed and engineered by Het N Dhameliya &bull; L J Institute of Engineering And Technology</em>
+</p>
