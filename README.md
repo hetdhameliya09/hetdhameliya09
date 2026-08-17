@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/L_J_Institute-Computer_Science_Engineering-7C3AED?style=for-the-badge&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Development-6366F1?style=for-the-badge&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineering-8B5CF6?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/L_J_Institute_Computer_Science_Engineering-7C3AED?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Full--Stack--Development-6366F1?style=for-the-badge&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/AI%2FML_Engineering-8B5CF6?style=for-the-badge&labelColor=111827"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Computer Science Engineering student with a strong foundation in full-stack deve
 
 🎯 **Seeking a Software Development Internship** to apply technical skills, gain industry experience, and contribute to innovative real-world projects.
 
-- 🎓 **Education**: B.E. in Computer Science Engineering (5th Semester), Lok Jagruti University (SPI: 6.73)
+- 🎓 **Education**: B.E. in Computer Science Engineering, at L J Institute Of Engineering And Technology
 - 📍 **Location**: Surat, Gujarat, India
 - 📞 **Contact**: (+91) 9979842583 | dhameliyaa.het@gmail.com
 
